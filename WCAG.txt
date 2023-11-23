@@ -1,0 +1,50 @@
+Web Content Accessibility Guidelines (WCAG)
+
+1.  Explain the importance of semantic elements in web development according to
+    accessibility guidelines. Provide examples of at least two semantic HTML 
+    elements and clarify how they enhance accessibility for users with disabilities.
+
+    Förklara betydelsen av semantiska element i webbutveckling enligt riktlinjer
+    för tillgänglighet. Ge exempel på minst två semantiska HTML-element och förtydliga
+    hur de förbättrar tillgängligheten för användare med funktionshinder.
+
+Semantiska element är element som beskriver vad det är för element och innehållet i
+elementet är lätt att förutse. Det finns två element, <div> och <span>, vars namn
+inte beskriver innehållet och helst om det går ska man använda andra element.
+Exempel på semantiska element som tydligt definierar sitt innehåll är <form> och 
+
+2.  Describe the significance of color contrast in web design 
+    concerning accessibility. How does adhering to color contrast guidelines
+    benefit users with visual impairments, and what are the recommended
+    contrast ratios as per WCAG standards?
+
+    Beskriv färgkontrastens betydelse i webbdesign avseende tillgänglighet.
+    Hur gynnar det användare med synnedsättning att följa riktlinjerna för
+    färgkontrast, och vilka är de rekommenderade kontrastförhållandena
+    enligt WCAG-standarder?
+
+3.  Discuss the role of alternative text (alt text) for images in
+    accordance with accessibility guidelines. Why is it crucial to include
+    descriptive alt text, and how does this contribute to making web content
+    more accessible? Provide examples to illustrate your explanation.
+
+    Diskutera rollen av alternativ text (alt text) för bilder i enlighet med
+    riktlinjer för tillgänglighet. Varför är det avgörande att inkludera
+    beskrivande alt-text, och hur bidrar detta till att göra webbinnehåll
+    mer tillgängligt? Ge exempel för att illustrera din förklaring.
+
+4.  Explain the purpose of landmarks in creating accessible web content.
+    How do landmarks aid in navigation for users of assistive technologies,
+    and can you provide examples of commonly used landmark elements in HTML?
+
+    Förklara syftet med landmärken för att skapa tillgängligt webbinnehåll.
+    Hur hjälper landmärken till navigering för användare av hjälpmedel,
+    och kan du ge exempel på vanliga landmärken i HTML?
+
+5.  Describe the significance of proper form labeling.
+    Why is it important to label form elements, and what strategies
+    can developers implement to ensure effective labeling for improved accessibility?
+
+    Beskriv betydelsen av korrekt formulärmärkning. Varför är det viktigt att märka
+    formulär-element och vilka strategier kan utvecklare implementera för att
+    säkerställa effektiv märkning för förbättrad tillgänglighet?
